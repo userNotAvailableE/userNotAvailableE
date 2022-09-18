@@ -20,7 +20,7 @@
 - 😄 Pronouns: he...
 - ⚡ Fun fact:  Octopuses have three hearts... -->
 <!-- - hi -->
-- hi👋 Im am userNotAvailable
+hi👋 Im am userNotAvailable
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 
