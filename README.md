@@ -22,7 +22,7 @@
 <!-- - hi -->
 - hi👋 Im am userNotAvailable
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack -->
 
 <!-- 
 ----![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; -->
