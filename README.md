@@ -34,7 +34,7 @@ hi👋 Im am userNotAvailable
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 
 
-<h3 align="left">Profile Views: 🧐</h3>
+<h3 align="left">Profile Views: </h3>
 <img width="20%" src="https://profile-counter.glitch.me/%7BuserNotAvailableE
 %7D/count.svg" /> 
 <!-- 
