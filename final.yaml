@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
       - name: final
-        image: cyrusjetson/ibmproject:new
+        image: cyrusjetson/ibmdemo:ec
         ports:
         - containerPort: 5000
         env:
