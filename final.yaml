@@ -19,7 +19,7 @@ spec:
   selector:
     matchLabels:
       app: final
-  replicas: 1
+  replicas: 4
   template:
     metadata:
       labels:
